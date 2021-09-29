@@ -5,9 +5,15 @@
 - [x] Fork this repository so you have your own copy to work on.
 - [x] Clone the repository on your local machine. 
 - [x] Create a Jupyter Notebook in your repository.
+<<<<<<< HEAD
 - [x] Watch the tutorial and execute commands.
 - [x] Push your new files to your GitHub repository.
 - [x] Submit a link to this GitHub repository in Canvas.
+=======
+- [ ] Watch the tutorial and execute commands.
+- [ ] Push your new files to your GitHub repository.
+- [ ] Submit a link to this GitHub repository in Canvas.
+>>>>>>> d2fe070c6b6e9d423cde3ef64737413bc115c6d5
 
 ## Fork & Clone this repository
 
